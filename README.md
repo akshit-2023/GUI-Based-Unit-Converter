@@ -22,8 +22,3 @@ This is a simple Unit Converter built using Java Swing that allows users to conv
 - Java Development Kit (JDK) 8 or later.
 - Maven (optional) if using as a build tool.
 
-### Steps to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/username/unit-converter.git
-   cd unit-converter
